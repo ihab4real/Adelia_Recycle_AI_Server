@@ -1,0 +1,6 @@
+Flask
+firebase-admin
+numpy
+tensorflow==2.15.0
+Pillow
+APScheduler
